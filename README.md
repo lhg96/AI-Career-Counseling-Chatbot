@@ -537,25 +537,6 @@ mypy .
 pytest tests/
 ```
 
-### 기여 워크플로우
-```mermaid
-gitgraph
-    commit id: "Main"
-    branch feature/new-feature
-    checkout feature/new-feature
-    commit id: "개발 시작"
-    commit id: "기능 구현"
-    commit id: "테스트 작성"
-    checkout main
-    merge feature/new-feature
-    commit id: "PR 머지"
-```
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 라이선스
 
