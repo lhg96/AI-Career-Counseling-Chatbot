@@ -581,10 +581,8 @@ pytest tests/
 |------|------|
 | **이름** | 임현근 (Hyun-Keun Lim) |
 | **Email** | hyun.lim@okkorea.net |
-| **GitHub** | [프로젝트 저장소](https://github.com/username/career_consult) |
-| **Last Updated** | 2025년 7월 5일 |
 
-### 교육, 컨설팅, 개발 외주 받습니다. 문의주세요.
+교육, 컨설팅, 개발 외주 받습니다. 편하게 문의주세요.
 
 <div align="center">
 
