@@ -544,16 +544,6 @@ pytest tests/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📞 문의하기
-
-### 👨‍💻 프로젝트 관리자 연락처
-
-| 항목 | 정보 |
-|------|------|
-| **이름** | 임현근 (Hyun-Keun Lim) |
-| **Email** | hyun.lim@okkorea.net |
-| **GitHub** | [프로젝트 저장소](https://github.com/username/career_consult) |
-| **Last Updated** | 2025년 7월 5일 |
 
 ### 💬 지원 채널
 - 🐛 **버그 신고**: GitHub Issues를 통해 신고해 주세요
@@ -581,6 +571,19 @@ pytest tests/
 - [ ] 웹 서버 실행 (`python app/simple_gui.py`)
 
 ---
+
+
+## 📞 문의하기
+
+### 👨‍💻 프로젝트 관리자 연락처
+
+| 항목 | 정보 |
+|------|------|
+| **이름** | 임현근 (Hyun-Keun Lim) |
+| **Email** | hyun.lim@okkorea.net |
+| **GitHub** | [프로젝트 저장소](https://github.com/username/career_consult) |
+| **Last Updated** | 2025년 7월 5일 |
+교육, 컨설팅, 개발 외주 받습니다. 문의주세요.
 
 <div align="center">
 
